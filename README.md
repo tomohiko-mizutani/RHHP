@@ -15,15 +15,15 @@ run_rhhp
 ```
 
 ### Input 
-- ``d`` : number of columns  
-- ``n`` : number of rows
-- ``r`` : factorization rank
-- ``delta`` : noise intensity, i.e, delta = $||N||_1$
-- ``dataType`` : choose 'normal' or 'ill-conditioned'
-- ``cVal`` : parameter for generating $\alpha$ such that 
+- ``d`` : Number of columns  
+- ``n`` : Number of rows
+- ``r`` : Factorization rank
+- ``delta`` : Noise intensity, i.e, delta = $||N||_1$
+- ``dataType`` : Choose 'normal' or 'ill-conditioned'
+- ``cVal`` : Parameter for generating $\alpha$ such that 
                      $\alpha^{(\text{r}-1)} = 10^{(-\text{cVal})}$
-- ``seed`` : seed of random numbers
-- ``flag_dispMatPara`` : flag_dispMatPara = 1 if you display kappa, omega, beta, and condNum (condition number), of input matrix; otherwise, flag_dispMatPara = 0
+- ``seed`` : Seed of random numbers
+- ``flag_dispMatPara`` : Set flag_dispMatPara = 1 if you display kappa, omega, beta, and condNum (condition number), of input matrix; otherwise, flag_dispMatPara = 0
 
 For the details of cVal, kappa, omega and beta, see page 1048 of the paper for cVal; and pages 1031-1032 for kappa, omega and beta.
 
