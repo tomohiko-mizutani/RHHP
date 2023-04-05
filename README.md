@@ -14,7 +14,7 @@ The following command runs RHHP for a noisy separable matrix  $A = W H + N$ of s
 run_rhhp
 ```
 
-### Input Variables**
+### Input Variables
 - ``d`` : number of columns  
 - ``n`` : number of rows
 - ``r`` : factorization rank
