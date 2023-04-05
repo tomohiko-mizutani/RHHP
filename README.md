@@ -1,5 +1,5 @@
 # RHHP - Refinement of Hottopixx with Hybrid Postprocessing
-MATLAB code for the algorithm RHHP, presented in the paper, 
+This is a MATLAB code for the algorithm RHHP, presented in the paper, 
 
 Tomohiko Mizutani, Refinement of Hottopixx Method for Nonnegative Matrix Factorization Under Noisy Separability, SIAM Journal on Matrix Analysis and Applications, 43(3):1029-1057, 2022.
 
