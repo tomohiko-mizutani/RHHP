@@ -4,7 +4,7 @@ MATLAB code for the algorithm RHHP, presented in the paper,
 Tomohiko Mizutani, Refinement of Hottopixx Method for Nonnegative Matrix Factorization Under Noisy Separability, SIAM Journal on Matrix Analysis and Applications, 43(3):1029-1057, 2022.
 
 ## Requirement
-You need to install CPLEX, and include the path of the directiry in which you placed it. See the file "run_rhhp.m".
+You need to install CPLEX, and include the path of the directiry in which you placed it. See the file 'run_rhhp.m'.
 
 ## Quick Start
 The following command runs RHHP for a noisy separable matrix  $A = W H + N$ of size d $\times$ n with factorization rank r.
