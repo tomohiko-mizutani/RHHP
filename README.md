@@ -31,5 +31,5 @@ For the details of cVal, kappa, omega and beta, see page 1048 of the paper for c
 - Recovery rate
 - Elapsed time
 
-
+---
 Contact: Tomohiko Mizutani [(mizutani.t@shizuoka.ac.jp)](mailto:mizutani.t@shizuoka.ac.jp)
