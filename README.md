@@ -14,7 +14,7 @@ The following command runs RHHP for a noisy separable matrix  $A = W H + N$ of s
 run_rhhp
 ```
 
-### Input Variables
+### Input 
 - ``d`` : number of columns  
 - ``n`` : number of rows
 - ``r`` : factorization rank
@@ -30,3 +30,6 @@ For the details of cVal, kappa, omega and beta, see page 1048 of the paper for c
 ### Output
 - Recovery rate
 - Elapsed time
+
+
+Contact: Tomohiko Mizutani [(mizutani.t@shizuoka.ac.jp)](mailto:mizutani.t@shizuoka.ac.jp)
