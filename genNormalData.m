@@ -1,4 +1,4 @@
-%  This code was written by Tomohiko Mizutani (April 6, 2023)
+% Tomohiko Mizutani (April 6, 2023)
 
 function [A, W_true, K_true, kappa, omega, beta, condNum] ...
 	= genNormalData(d, n, r, delta, seed)

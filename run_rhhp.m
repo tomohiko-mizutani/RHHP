@@ -1,4 +1,4 @@
-%  This code was written by Tomohiko Mizutani (April 6, 2023)
+%  Tomohiko Mizutani (April 6, 2023)
 
 function [] = run_rhhp()
 
