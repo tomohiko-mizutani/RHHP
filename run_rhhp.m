@@ -19,7 +19,9 @@ function [] = run_rhhp()
 % dataType          : Choose 'normal' or 'ill-conditioned'
 % cVal              : Parameter for generating alpha such that alpha^(r-1) = 10^(-cVal)
 % seed              : Seed of random numbers
-% flag_dispMatPara  : Choose 1 if you display kappa, omega, beta
+% flag_dispMatPara  : Choose 1 if you display kappa, omega, beta, and
+%                     condNum (condition number), of input matrix; otherwise, 0
+%    
 %    
 % For the details of cVal, kappa, omega and beta, see page 1048 of the paper for cVal;
 % and pages 1031-1032 for kappa, omega and beta.
